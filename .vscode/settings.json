@@ -1,0 +1,7 @@
+{
+    "Codegeex.SidebarUI.LanguagePreference": "English",
+    "python.envFile": "${workspaceFolder}/.env",
+    "terminal.integrated.env.windows": {
+        "MISTRAL_API_KEY": "0rxT82ORNloJ3GIcnod40upRvjOFmEDU"
+    }
+}
